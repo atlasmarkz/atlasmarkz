@@ -1,18 +1,22 @@
 ### Hey, I'm Mark
 
-I build and study AI systems that act reliably, with a focus on agent execution, tool-call observability, and post-training.
+**Building AI systems that act reliably.**
 
-You can find me on [X](https://x.com/MarkFutureai) or visit my [website](https://amark-cs.github.io/).
+I build tools and explore workflows that make agent execution more visible, useful, and easier to evaluate. My background spans agent platforms, RAG, and backend systems.
 
-#### Building
+[Website](https://atlasmarkz.github.io/) · [X](https://x.com/MarkFutureai) · [LinkedIn](https://www.linkedin.com/in/hechuan-zhang-78920431b/) · [Email](mailto:markfuture.ai@gmail.com)
 
-- [LoopPrism](https://github.com/AMark-CS/LoopPrism) — See what your coding agents actually do and spend: sessions, context and cost for Claude Code, Codex, OpenCode, DeepSeek Harness, WorkBuddy. 
-- [nano-posttrain](https://github.com/AMark-CS/nano-posttrain) — A small PyTorch library for learning SFT, DPO, and LoRA through reproducible experiments.
+#### Selected work
+
+- [LoopPrism](https://github.com/atlasmarkz/LoopPrism) — A local-first inspector for coding agent sessions, context, timing, and estimated API costs.
+- [nano-posttrain](https://github.com/atlasmarkz/nano-posttrain) — A small PyTorch library for learning SFT, DPO, and LoRA.
+- [OfferPilot](https://github.com/atlasmarkz/offerpilot) — A project exploring tools to help graduates navigate their job search.
+- [TACC AgentForge](https://github.com/atlasmarkz/tacc-agentforge) — An in-progress course project exploring model serving and a tool-using shopping advisor; initial deployment and smoke tests are complete.
 
 #### Exploring
 
-- **Agent reliability** — Tool permissions, execution traces, evaluation, and recovery.
-- **Post-training** — Supervised fine-tuning, preference optimization, and efficient model adaptation.
-- **Open-source systems** — Learning from projects such as [vLLM](https://github.com/vllm-project/vllm) and [verl](https://github.com/volcengine/verl).
+- **Agent reliability** — Evaluation, tool permissions, execution traces, and recovery.
+- **AI systems** — Model serving, post-training, and practical engineering trade-offs.
+- **Open source** — Learning from projects such as [vLLM](https://github.com/vllm-project/vllm) and [verl](https://github.com/volcengine/verl), and contributing to tools that make AI useful.
 
-I'm interested in collaborating on concrete problems in agent tooling and evaluation. Reach me at [markfuture.ai@gmail.com](mailto:markfuture.ai@gmail.com).
+I'm interested in collaborating on concrete problems in agent tooling and evaluation.
