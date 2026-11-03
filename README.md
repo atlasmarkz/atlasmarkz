@@ -1,5 +1,5 @@
 ### Hey, I'm Mark
-
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e3de437f-ec3f-489b-a5f3-9ff7c8a04505" />
 
 I now build tools and explore workflows that make agent execution more visible, useful, and easier to evaluate.
 
