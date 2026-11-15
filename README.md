@@ -1,15 +1,15 @@
 ### Hey, I'm Mark
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e3de437f-ec3f-489b-a5f3-9ff7c8a04505" />
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=atlasmarkz&label=Profile+views&color=007ec6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=atlasmarkz&label=Profile+views&color=007ec6&style=flat" alt="Profile Views" />
   <a href="https://github.com/atlasmarkz?tab=repositories">
-    <img src="https://img.shields.io/github/stars/atlasmarkz?label=Total+stars&color=007ec6&style=flat" alt="Total stars" />
+    <img src="https://img.shields.io/github/stars/atlasmarkz?label=Total+stars&color=007ec6&style=flat" alt="Total Stars" />
   </a>
   <a href="https://scholar.google.com/citations?user=vPYt_rsAAAAJ">
     <img src="https://img.shields.io/badge/Scholar-Publications-4285F4?style=flat&logo=google-scholar&logoColor=white&labelColor=555555" alt="Google Scholar" />
   </a>
-  <a href="https://amark-cs.github.io/">
-    <img src="https://img.shields.io/badge/Website-amark--cs.github.io-24292F?style=flat&logo=githubpages&logoColor=white&labelColor=555555" alt="Website" />
+  <a href="https://atlasmarkz.github.io/">
+    <img src="https://img.shields.io/badge/Personal-Website-24292F?style=flat&logo=githubpages&logoColor=white&labelColor=555555" alt="Personal Website" />
   </a>
   <a href="https://x.com/MarkFutureai">
     <img src="https://img.shields.io/badge/X-%40MarkFutureai-000000?style=flat&logo=x&logoColor=white&labelColor=555555" alt="X" />
