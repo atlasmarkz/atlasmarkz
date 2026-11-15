@@ -11,3 +11,23 @@ I now build tools and explore workflows that make agent execution more visible, 
 - [nano-posttrain](https://github.com/atlasmarkz/nano-posttrain) — A small PyTorch library for learning SFT, DPO, and LoRA.
 - [OfferPilot](https://github.com/atlasmarkz/offerpilot) — A project exploring tools to help graduates navigate their job search.
 - [TACC AgentForge](https://github.com/atlasmarkz/tacc-agentforge) — An in-progress course project exploring model serving and a tool-using shopping advisor; initial deployment and smoke tests are complete.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=atlasmarkz&label=Profile+views&color=007ec6&style=flat" alt="Profile views" />
+  <a href="https://github.com/atlasmarkz?tab=repositories">
+    <img src="https://img.shields.io/github/stars/atlasmarkz?label=Total+stars&color=007ec6&style=flat" alt="Total stars" />
+  </a>
+</p>
+
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img
+    src="https://komarev.com/ghpvc/?username=atlasmarkz&label=Profile+views&color=007ec6&style=flat"
+    alt="Profile views"
+  />
+  <a href="https://github.com/atlasmarkz?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/github/stars/atlasmarkz?label=Total+stars&color=007ec6&style=flat"
+      alt="Total stars"
+    />
+  </a>
+</div>
