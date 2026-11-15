@@ -1,15 +1,5 @@
 ### Hey, I'm Mark
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e3de437f-ec3f-489b-a5f3-9ff7c8a04505" />
-
-I now build tools and explore workflows that make agent execution more visible, useful, and easier to evaluate.
-
-#### Selected work
-
-- [LoopPrism](https://github.com/atlasmarkz/LoopPrism) — A local-first inspector for coding agent sessions, context, timing, and estimated API costs.
-- [nano-posttrain](https://github.com/atlasmarkz/nano-posttrain) — A small PyTorch library for learning SFT, DPO, and LoRA.
-- [OfferPilot](https://github.com/atlasmarkz/offerpilot) — A project exploring tools to help graduates navigate their job search.
-- [TACC AgentForge](https://github.com/atlasmarkz/tacc-agentforge) — An in-progress course project exploring model serving and a tool-using shopping advisor; initial deployment and smoke tests are complete.
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=atlasmarkz&label=Profile+views&color=007ec6&style=flat" alt="Profile views" />
   <a href="https://github.com/atlasmarkz?tab=repositories">
@@ -28,3 +18,13 @@ I now build tools and explore workflows that make agent execution more visible, 
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
   </a>
 </p>
+I now build tools and explore workflows that make agent execution more visible, useful, and easier to evaluate.
+
+#### Selected work
+
+- [LoopPrism](https://github.com/atlasmarkz/LoopPrism) — A local-first inspector for coding agent sessions, context, timing, and estimated API costs.
+- [nano-posttrain](https://github.com/atlasmarkz/nano-posttrain) — A small PyTorch library for learning SFT, DPO, and LoRA.
+- [OfferPilot](https://github.com/atlasmarkz/offerpilot) — A project exploring tools to help graduates navigate their job search.
+- [TACC AgentForge](https://github.com/atlasmarkz/tacc-agentforge) — An in-progress course project exploring model serving and a tool-using shopping advisor; initial deployment and smoke tests are complete.
+
+
