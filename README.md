@@ -17,6 +17,7 @@
   <a href="https://www.linkedin.com/in/hechuan-zhang-78920431b/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
   </a>
+  <a href="mailto:hzhanghi@connect.ust.hk"><img src="https://img.shields.io/badge/Email-HKUST-D14836?style=flat&logo=mail&logoColor=white&labelColor=555555" alt="Email" /></a>
 </p>
 I now build tools and explore workflows that make agent execution more visible, useful, and easier to evaluate.
 
