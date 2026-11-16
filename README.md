@@ -1,23 +1,13 @@
 ### Hey, I'm Mark
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e3de437f-ec3f-489b-a5f3-9ff7c8a04505" />
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=atlasmarkz&label=Profile+views&color=007ec6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/atlasmarkz?tab=repositories">
-    <img src="https://img.shields.io/github/stars/atlasmarkz?label=Total+stars&color=007ec6&style=flat" alt="Total Stars" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=vPYt_rsAAAAJ">
-    <img src="https://img.shields.io/badge/Scholar-Publications-4285F4?style=flat&logo=google-scholar&logoColor=white&labelColor=555555" alt="Google Scholar" />
-  </a>
-  <a href="https://atlasmarkz.github.io/">
-    <img src="https://img.shields.io/badge/Personal-Website-24292F?style=flat&logo=githubpages&logoColor=white&labelColor=555555" alt="Personal Website" />
-  </a>
-  <a href="https://x.com/MarkFutureai">
-    <img src="https://img.shields.io/badge/X-%40MarkFutureai-000000?style=flat&logo=x&logoColor=white&labelColor=555555" alt="X" />
-  </a>
-  <a href="https://www.linkedin.com/in/hechuan-zhang-78920431b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hzhanghi@connect.ust.hk"><img src="https://img.shields.io/badge/Email-HKUST-D14836?style=flat&logo=mail&logoColor=white&labelColor=555555" alt="Email" /></a>
+  <a href="https://komarev.com/ghpvc/?username=atlasmarkz"><img src="https://komarev.com/ghpvc/?username=atlasmarkz&label=Profile+views&color=0969da&style=flat" alt="Profile views" /></a>
+  <a href="https://scholar.google.com/citations?user=vPYt_rsAAAAJ"><img src="https://img.shields.io/badge/Scholar-Publications-4285F4?style=flat&logo=google-scholar&logoColor=white&labelColor=555555" alt="Google Scholar" /></a>
+  <a href="https://amark-cs.github.io/"><img src="https://img.shields.io/badge/Personal-Website-24292F?style=flat&logo=googlechrome&logoColor=white&labelColor=555555" alt="Website" /></a>
+  <a href="https://huggingface.co/atlasmarkz"><img src="https://img.shields.io/badge/Hugging%20Face-%40atlasmarkz-E68A00?style=flat&logo=huggingface&logoColor=FFD21E&labelColor=555555" alt="Hugging Face" /></a>
+  <a href="https://x.com/MarkFutureai"><img src="https://img.shields.io/badge/X-%40MarkFutureai-000000?style=flat&logo=x&logoColor=white&labelColor=555555" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/hechuan-zhang-78920431b/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" /></a>
+  <a href="https://blog.csdn.net/weixin_73074012?type=blog"><img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat&logo=csdn&logoColor=white&labelColor=555555" alt="CSDN" /></a>
 </p>
 I now build tools and explore workflows that make agent execution more visible, useful, and easier to evaluate.
 
