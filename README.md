@@ -8,13 +8,14 @@
   <a href="https://www.linkedin.com/in/hechuan-zhang-78920431b/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" /></a>
   <a href="https://blog.csdn.net/weixin_73074012?type=blog"><img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat&logo=csdn&logoColor=white&labelColor=555555" alt="CSDN" /></a>
 </p>
-I now build tools and explore workflows that make agent execution more visible, useful, and easier to evaluate.
+Building verifiable, reliable AI in the open — from constrained generative models for science (ICDM '26) to LLM post-training, observable agents, and practical AI apps.
 
 #### Selected work
 
-- [LoopPrism](https://github.com/atlasmarkz/LoopPrism) — A local-first inspector for coding agent sessions, context, timing, and estimated API costs.
-- [nano-posttrain](https://github.com/atlasmarkz/nano-posttrain) — A small PyTorch library for learning SFT, DPO, and LoRA.
-- [OfferPilot](https://github.com/atlasmarkz/offerpilot) — A project exploring tools to help graduates navigate their job search.
-- [TACC AgentForge](https://github.com/atlasmarkz/tacc-agentforge) — An in-progress course project exploring model serving and a tool-using shopping advisor; initial deployment and smoke tests are complete.
-
+- [PDexFlow](https://github.com/atlasmarkz/PDexFlow) — Official code for *Escaping the Mirror Trap: Parity-Harmonized Flow Matching on Riemannian Manifolds for Peptide Design* (ICDM 2026).
+- [LoopPrism](https://github.com/atlasmarkz/LoopPrism) — A local-first session inspector tracking tool calls, context usage, timing, and estimated costs across Claude Code, Codex, OpenCode, DeepSeek Harness, and WorkBuddy.
+- [dsh-effort-pilot](https://github.com/atlasmarkz/dsh-effort-pilot) — Adaptive per-step thinking-effort plugin for **DeepSeek Harness**, alongside [dsh-quota-meter](https://github.com/atlasmarkz/dsh-quota-meter), [svg-animation-pipeline](https://github.com/atlasmarkz/svg-animation-pipeline), and [handwriting-pdf](https://github.com/atlasmarkz/handwriting-pdf) plugins/skills.
+- [ecom-posttrain](https://github.com/atlasmarkz/ecom-posttrain) — LLM post-training experiments with SFT, DPO, GRPO, and LoRA alongside local quantized GPU serving (paired with [nano-posttrain](https://github.com/atlasmarkz/nano-posttrain)).
+- [microduck-qwen](https://github.com/atlasmarkz/microduck-qwen) — Simulation research combining Qwen vision grounding, natural-language navigation, and post-training baselines for a bipedal robot agent.
+- [OfferPilot](https://github.com/atlasmarkz/offerpilot) — A TypeScript AI job-search app for graduates combining hard-constraint filtering, weighted ranking, and LLM-assisted resume workflows.
 
