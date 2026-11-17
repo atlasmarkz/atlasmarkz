@@ -2,8 +2,6 @@
 <div align="center">
 
 > *“ 𝓒𝓊𝓇𝒾ℴ𝓈𝒾𝓉𝓎 𝓊𝓃𝒻ℴ𝓁𝒹𝓈 𝒶𝓃 ℯ𝓃𝒹𝓁ℯ𝓈𝓈 𝓐𝓉𝓁𝒶𝓈. ”*
->
-> <sub>Exploring uncharted spaces in AI & geometric generative models.</sub>
 
 </div>
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e3de437f-ec3f-489b-a5f3-9ff7c8a04505" />
