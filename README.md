@@ -1,10 +1,8 @@
 ### Hey, I'm Mark
-<div align="center">
-
-> *“ 𝓒𝓊𝓇𝒾ℴ𝓈𝒾𝓉𝓎 𝓊𝓃𝒻ℴ𝓁𝒹𝓈 𝒶𝓃 ℯ𝓃𝒹𝓁ℯ𝓈𝓈 𝓐𝓉𝓁𝒶𝓈. ”*
-
-</div>
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e3de437f-ec3f-489b-a5f3-9ff7c8a04505" />
+<div align="center">
+> *“ 𝓒𝓊𝓇𝒾ℴ𝓈𝒾𝓉𝓎 𝓊𝓃𝒻ℴ𝓁𝒹𝓈 𝒶𝓃 ℯ𝓃𝒹𝓁ℯ𝓈𝓈 𝓐𝓉𝓁𝒶𝓈. ”*
+</div>
 <p align="left">
   <a href="https://komarev.com/ghpvc/?username=atlasmarkz"><img src="https://komarev.com/ghpvc/?username=atlasmarkz&label=Profile+views&color=0969da&style=flat" alt="Profile views" /></a>
   <a href="https://scholar.google.com/citations?user=vPYt_rsAAAAJ"><img src="https://img.shields.io/badge/Scholar-Publications-4285F4?style=flat&logo=google-scholar&logoColor=white&labelColor=555555" alt="Google Scholar" /></a>
