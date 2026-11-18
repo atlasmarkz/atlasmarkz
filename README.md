@@ -24,4 +24,9 @@ Building verifiable, reliable AI in the open — from constrained generative mod
 - [microduck-qwen](https://github.com/atlasmarkz/microduck-qwen) — Simulation research combining Qwen vision grounding, natural-language navigation, and post-training baselines for a bipedal robot agent.
 - [OfferPilot](https://github.com/atlasmarkz/offerpilot) — A TypeScript AI job-search app for graduates combining hard-constraint filtering, weighted ranking, and LLM-assisted resume workflows.
 
-Currently contributing to [Stably (`orca`)](https://github.com/stablyai/orca), [Headroom Labs (`headroom`)](https://github.com/headroomlabs-ai/headroom), [HKUDS (`nanobot`)](https://github.com/HKUDS/nanobot), and the [DeepSeek Harness plugin ecosystem](https://github.com/awesome-dsh-plugin).
+<p align="left">
+  Currently contributing to:
+  <a href="https://github.com/stablyai/orca"><img src="https://img.shields.io/badge/Stably-orca-181717?style=flat&logo=github&logoColor=white&labelColor=555555" alt="Stably orca" /></a>
+  <a href="https://github.com/headroomlabs-ai/headroom"><img src="https://img.shields.io/badge/Headroom%20Labs-headroom-181717?style=flat&logo=github&logoColor=white&labelColor=555555" alt="Headroom Labs headroom" /></a>
+  <a href="https://github.com/HKUDS/nanobot"><img src="https://img.shields.io/badge/HKUDS-nanobot-181717?style=flat&logo=github&logoColor=white&labelColor=555555" alt="HKUDS nanobot" /></a>
+</p>
