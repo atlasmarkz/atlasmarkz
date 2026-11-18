@@ -16,7 +16,7 @@
 </p>
 Building verifiable, reliable AI in the open — from constrained generative models for science (ICDM '26) to LLM post-training, observable agents, and practical AI apps.
 
-#### Building
+### Building
 
 - [PDexFlow](https://github.com/atlasmarkz/PDexFlow) <img src="https://img.shields.io/github/stars/atlasmarkz/PDexFlow?style=flat&label=stars&color=0969da&labelColor=555555" height="16" alt="stars" /> — Official code for *Escaping the Mirror Trap: Parity-Harmonized Flow Matching on Riemannian Manifolds for Peptide Design* (ICDM 2026).
 - [LoopPrism](https://github.com/atlasmarkz/LoopPrism) <img src="https://img.shields.io/github/stars/atlasmarkz/LoopPrism?style=flat&label=stars&color=0969da&labelColor=555555" height="16" alt="stars" /> — A local-first session inspector tracking tool calls, context usage, timing, and estimated costs across Claude Code, Codex, OpenCode, DeepSeek Harness, and WorkBuddy.
@@ -25,8 +25,10 @@ Building verifiable, reliable AI in the open — from constrained generative mod
 - [microduck-qwen](https://github.com/atlasmarkz/microduck-qwen) <img src="https://img.shields.io/github/stars/atlasmarkz/microduck-qwen?style=flat&label=stars&color=0969da&labelColor=555555" height="16" alt="stars" /> — Simulation research combining Qwen vision grounding, natural-language navigation, and post-training baselines for a bipedal robot agent.
 - [OfferPilot](https://github.com/atlasmarkz/offerpilot) <img src="https://img.shields.io/github/stars/atlasmarkz/offerpilot?style=flat&label=stars&color=0969da&labelColor=555555" height="16" alt="stars" /> — A TypeScript AI job-search app for graduates combining hard-constraint filtering, weighted ranking, and LLM-assisted resume workflows.
 
-#### Contributing to
+### Contributing to
 
 - [Orca (Stably)](https://github.com/stablyai/orca) <img src="https://img.shields.io/github/stars/stablyai/orca?style=flat&label=stars&color=0d9488&labelColor=555555" height="16" alt="stars" /> — Persistent-agent remote server setup documentation and Electron proxy `webRequest` guard bug diagnosis (`#43598`, `#43913`).
 - [Headroom (Headroom Labs)](https://github.com/headroomlabs-ai/headroom) <img src="https://img.shields.io/github/stars/headroomlabs-ai/headroom?style=flat&label=stars&color=0d9488&labelColor=555555" height="16" alt="stars" /> — Enforce TLS-only (`https`/`wss`) default port `443` validation with regression tests for Copilot auth URLs, plus Antigravity setup docs (`#4910`, `#4908`).
 - [nanobot (HKUDS)](https://github.com/HKUDS/nanobot) <img src="https://img.shields.io/github/stars/HKUDS/nanobot?style=flat&label=stars&color=0d9488&labelColor=555555" height="16" alt="stars" /> — Reported NUL-byte (`\x00`) hostname truncation vulnerability in `resolve_url_target` (`#6701`).
+- [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) <img src="https://img.shields.io/github/stars/awesome-dsh-plugin/awesome-dsh-plugin?style=flat&label=stars&color=0d9488&labelColor=555555" height="16" alt="stars" /> — Contributed 4 merged plugins and themes for DeepSeek Harness (`dsh-effort-pilot`, `dsh-quota-meter`, `svg-animation-pipeline`, `dsh-ink-whale`).
+- [awesome-dsh-workbench (DataElem)](https://github.com/dataelement/awesome-dsh-workbench) <img src="https://img.shields.io/github/stars/dataelement/awesome-dsh-workbench?style=flat&label=stars&color=0d9488&labelColor=555555" height="16" alt="stars" /> — Submitted FinOps and Personal Finance workbenches (`dsh-finops-workbench`, `dsh-personal-finance-workbench`) for DSH Desktop (`#82`, `#83`).
