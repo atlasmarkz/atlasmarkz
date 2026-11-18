@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/hechuan-zhang-78920431b/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" /></a>
   <a href="https://blog.csdn.net/weixin_73074012?type=blog"><img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat&logo=csdn&logoColor=white&labelColor=555555" alt="CSDN" /></a>
 </p>
-Building verifiable, reliable AI in the open — from constrained generative models for science (ICDM '26) to LLM post-training, observable agents, and practical AI apps.
+Building verifiable, reliable AI in the open — from constrained generative models for science to LLM post-training, observable agents, and practical AI apps.
 
 ### Building
 
