@@ -16,17 +16,17 @@
 </p>
 Building verifiable, reliable AI in the open — from constrained generative models for science (ICDM '26) to LLM post-training, observable agents, and practical AI apps.
 
-#### Selected work
+#### Building
 
-- [PDexFlow](https://github.com/atlasmarkz/PDexFlow) — Official code for *Escaping the Mirror Trap: Parity-Harmonized Flow Matching on Riemannian Manifolds for Peptide Design* (ICDM 2026).
-- [LoopPrism](https://github.com/atlasmarkz/LoopPrism) — A local-first session inspector tracking tool calls, context usage, timing, and estimated costs across Claude Code, Codex, OpenCode, DeepSeek Harness, and WorkBuddy.
-- [dsh-effort-pilot](https://github.com/atlasmarkz/dsh-effort-pilot) — Adaptive per-step thinking-effort plugin for **DeepSeek Harness**, alongside [dsh-quota-meter](https://github.com/atlasmarkz/dsh-quota-meter), [svg-animation-pipeline](https://github.com/atlasmarkz/svg-animation-pipeline), and [handwriting-pdf](https://github.com/atlasmarkz/handwriting-pdf) plugins/skills.
-- [microduck-qwen](https://github.com/atlasmarkz/microduck-qwen) — Simulation research combining Qwen vision grounding, natural-language navigation, and post-training baselines for a bipedal robot agent.
-- [OfferPilot](https://github.com/atlasmarkz/offerpilot) — A TypeScript AI job-search app for graduates combining hard-constraint filtering, weighted ranking, and LLM-assisted resume workflows.
+- [PDexFlow](https://github.com/atlasmarkz/PDexFlow) <img src="https://img.shields.io/github/stars/atlasmarkz/PDexFlow?style=flat&label=stars&color=0969da&labelColor=555555" height="16" alt="stars" /> — Official code for *Escaping the Mirror Trap: Parity-Harmonized Flow Matching on Riemannian Manifolds for Peptide Design* (ICDM 2026).
+- [LoopPrism](https://github.com/atlasmarkz/LoopPrism) <img src="https://img.shields.io/github/stars/atlasmarkz/LoopPrism?style=flat&label=stars&color=0969da&labelColor=555555" height="16" alt="stars" /> — A local-first session inspector tracking tool calls, context usage, timing, and estimated costs across Claude Code, Codex, OpenCode, DeepSeek Harness, and WorkBuddy.
+- [dsh-effort-pilot](https://github.com/atlasmarkz/dsh-effort-pilot) <img src="https://img.shields.io/github/stars/atlasmarkz/dsh-effort-pilot?style=flat&label=stars&color=0969da&labelColor=555555" height="16" alt="stars" /> — Adaptive per-step thinking-effort plugin for **DeepSeek Harness**, alongside [dsh-quota-meter](https://github.com/atlasmarkz/dsh-quota-meter), [svg-animation-pipeline](https://github.com/atlasmarkz/svg-animation-pipeline), and [handwriting-pdf](https://github.com/atlasmarkz/handwriting-pdf) plugins/skills.
+- [ecom-posttrain](https://github.com/atlasmarkz/ecom-posttrain) <img src="https://img.shields.io/github/stars/atlasmarkz/ecom-posttrain?style=flat&label=stars&color=0969da&labelColor=555555" height="16" alt="stars" /> — LLM post-training experiments with SFT, DPO, GRPO, and LoRA alongside local quantized GPU serving (paired with [nano-posttrain](https://github.com/atlasmarkz/nano-posttrain)).
+- [microduck-qwen](https://github.com/atlasmarkz/microduck-qwen) <img src="https://img.shields.io/github/stars/atlasmarkz/microduck-qwen?style=flat&label=stars&color=0969da&labelColor=555555" height="16" alt="stars" /> — Simulation research combining Qwen vision grounding, natural-language navigation, and post-training baselines for a bipedal robot agent.
+- [OfferPilot](https://github.com/atlasmarkz/offerpilot) <img src="https://img.shields.io/github/stars/atlasmarkz/offerpilot?style=flat&label=stars&color=0969da&labelColor=555555" height="16" alt="stars" /> — A TypeScript AI job-search app for graduates combining hard-constraint filtering, weighted ranking, and LLM-assisted resume workflows.
 
-<p align="left">
-  Currently contributing to:
-  <a href="https://github.com/stablyai/orca"><img src="https://img.shields.io/badge/Stably-orca-181717?style=flat&logo=github&logoColor=white&labelColor=555555" alt="Stably orca" /></a>
-  <a href="https://github.com/headroomlabs-ai/headroom"><img src="https://img.shields.io/badge/Headroom%20Labs-headroom-181717?style=flat&logo=github&logoColor=white&labelColor=555555" alt="Headroom Labs headroom" /></a>
-  <a href="https://github.com/HKUDS/nanobot"><img src="https://img.shields.io/badge/HKUDS-nanobot-181717?style=flat&logo=github&logoColor=white&labelColor=555555" alt="HKUDS nanobot" /></a>
-</p>
+#### Contributing to
+
+- [Orca (Stably)](https://github.com/stablyai/orca) <img src="https://img.shields.io/github/stars/stablyai/orca?style=flat&label=stars&color=0d9488&labelColor=555555" height="16" alt="stars" /> — Persistent-agent remote server setup documentation and Electron proxy `webRequest` guard bug diagnosis (`#43598`, `#43913`).
+- [Headroom (Headroom Labs)](https://github.com/headroomlabs-ai/headroom) <img src="https://img.shields.io/github/stars/headroomlabs-ai/headroom?style=flat&label=stars&color=0d9488&labelColor=555555" height="16" alt="stars" /> — Enforce TLS-only (`https`/`wss`) default port `443` validation with regression tests for Copilot auth URLs, plus Antigravity setup docs (`#4910`, `#4908`).
+- [nanobot (HKUDS)](https://github.com/HKUDS/nanobot) <img src="https://img.shields.io/github/stars/HKUDS/nanobot?style=flat&label=stars&color=0d9488&labelColor=555555" height="16" alt="stars" /> — Reported NUL-byte (`\x00`) hostname truncation vulnerability in `resolve_url_target` (`#6701`).
